@@ -1,0 +1,6 @@
+[build]
+  # Use the directory where your function code lives
+  # EITHER this:
+  functions = "netlify/functions"
+  # OR this, if you used the simpler structure:
+  # functions = "functions"
